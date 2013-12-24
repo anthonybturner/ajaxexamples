@@ -1,0 +1,11 @@
+{
+
+	"full_name" : "Anthony Turner",
+	"title"		: "Computer Science Student",
+	"links"		: [
+		{"University" : "http://www.newpaltz.edu"},
+		{"Facebook"   : "http://www.facebook.com"},
+		{"Youtube"    : "http://www.youtube.com"},
+		{"Stackoverflow" : "http://www.stackoverflow.com"}
+	]
+}
